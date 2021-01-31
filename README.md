@@ -11,16 +11,16 @@ This is the app for booking tickets. Created with react native and firebase as d
 
 # ScreenShot
 
-<br> Login <br>
+# Login <br>
 ![Login](https://github.com/MentorUsama/Bus-Ticket-Booking/blob/master/ScreenShot/login.PNG)
 
-<br> Home <br>
+# Home <br>
 ![Home](https://github.com/MentorUsama/Bus-Ticket-Booking/blob/master/ScreenShot/home.PNG)
 
-<br> Select Bus <br>
+# Select Bus <br>
 ![Select Bus](https://github.com/MentorUsama/Bus-Ticket-Booking/blob/master/ScreenShot/select%20bus.PNG)
 
-<br> Select Seat <br>
+# Select Seat <br>
 ![Select Seat](https://github.com/MentorUsama/Bus-Ticket-Booking/blob/master/ScreenShot/book%20seat.PNG)
 
 

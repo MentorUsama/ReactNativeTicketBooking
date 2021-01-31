@@ -1,0 +1,499 @@
+{
+  "BusSchedule" : [ {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "16:00",
+    "Booked" : [ {
+      "PhoneNumber" : "03472547540",
+      "seats" : [ {
+        "Gender" : 1,
+        "seatID" : 2
+      }, {
+        "Gender" : 0,
+        "seatID" : 1
+      } ]
+    } ],
+    "BusID" : 1,
+    "BusStandard" : "Luxury",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "15:00",
+    "Destination" : "Multan",
+    "Price" : 1000,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 2,
+    "BusStandard" : "Business",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 500,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 2,
+    "BusStandard" : "Business",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "15:00",
+    "Destination" : "Lahore",
+    "Price" : 500,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 3,
+    "BusStandard" : "Economy",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 100,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 3,
+    "BusStandard" : "Economy",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "15:00",
+    "Destination" : "Lahore",
+    "Price" : 100,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 4,
+    "BusStandard" : "Luxury",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 1000,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 4,
+    "BusStandard" : "Luxury",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "15:00",
+    "Destination" : "lahore",
+    "Price" : 1000,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 5,
+    "BusStandard" : "Business",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 500,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 5,
+    "BusStandard" : "Business",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "15:00",
+    "Destination" : "lahore",
+    "Price" : 500,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 6,
+    "BusStandard" : "Economy",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 100,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 6,
+    "BusStandard" : "Economy",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "15:00",
+    "Destination" : "lahore",
+    "Price" : 100,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 7,
+    "BusStandard" : "Luxury",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 1000,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 7,
+    "BusStandard" : "Luxury",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "15:00",
+    "Destination" : "lahore",
+    "Price" : 1000,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 8,
+    "BusStandard" : "Business",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 500,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 8,
+    "BusStandard" : "Business",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "15:00",
+    "Destination" : "lahore",
+    "Price" : 500,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 9,
+    "BusStandard" : "Economy",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 100,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 9,
+    "BusStandard" : "Economy",
+    "Date" : "25-10-2020",
+    "Day" : "Sunday",
+    "DepartureTime" : "15:00",
+    "Destination" : "lahore",
+    "Price" : 100,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "Booked" : [ {
+      "PhoneNumber" : "03472547540",
+      "seats" : [ {
+        "Gender" : 1,
+        "seatID" : 8
+      }, {
+        "Gender" : 0,
+        "seatID" : 4
+      }, {
+        "Gender" : 1,
+        "seatID" : 22
+      }, {
+        "Gender" : 0,
+        "seatID" : 12
+      } ]
+    }, {
+      "PhoneNumber" : "09472446240",
+      "seats" : [ {
+        "Gender" : 0,
+        "seatID" : 21
+      }, {
+        "Gender" : 1,
+        "seatID" : 11
+      } ]
+    } ],
+    "BusID" : 1,
+    "BusStandard" : "Luxury",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 1000,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 1,
+    "BusStandard" : "Luxury",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "15:00",
+    "Destination" : "Lahore",
+    "Price" : 1000,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 2,
+    "BusStandard" : "Business",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 500,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 2,
+    "BusStandard" : "Business",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "15:00",
+    "Destination" : "Lahore",
+    "Price" : 500,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 3,
+    "BusStandard" : "Economy",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 100,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 3,
+    "BusStandard" : "Economy",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "15:00",
+    "Destination" : "Lahore",
+    "Price" : 100,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 4,
+    "BusStandard" : "Luxury",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 1000,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 4,
+    "BusStandard" : "Luxury",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "15:00",
+    "Destination" : "lahore",
+    "Price" : 1000,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 5,
+    "BusStandard" : "Business",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 500,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 5,
+    "BusStandard" : "Business",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "15:00",
+    "Destination" : "lahore",
+    "Price" : 500,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 6,
+    "BusStandard" : "Economy",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 100,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 6,
+    "BusStandard" : "Economy",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "15:00",
+    "Destination" : "lahore",
+    "Price" : 100,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 7,
+    "BusStandard" : "Luxury",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 1000,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 7,
+    "BusStandard" : "Luxury",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "15:00",
+    "Destination" : "lahore",
+    "Price" : 1000,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 8,
+    "BusStandard" : "Business",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 500,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 8,
+    "BusStandard" : "Business",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "15:00",
+    "Destination" : "lahore",
+    "Price" : 500,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Lahore",
+    "ArrivalTime" : "12:00",
+    "BusID" : 9,
+    "BusStandard" : "Economy",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "09:00",
+    "Destination" : "Multan",
+    "Price" : 100,
+    "TotalSeats" : 30
+  }, {
+    "Arrival" : "Multan",
+    "ArrivalTime" : "16:00",
+    "BusID" : 9,
+    "BusStandard" : "Economy",
+    "Date" : "26-10-2020",
+    "Day" : "Monday",
+    "DepartureTime" : "15:00",
+    "Destination" : "lahore",
+    "Price" : 100,
+    "TotalSeats" : 30
+  } ],
+  "Buses" : [ {
+    "BusID" : 1,
+    "BusStandard" : "Luxury",
+    "Price" : "1000",
+    "seatID" : 30
+  }, {
+    "BusID" : 2,
+    "BusStandard" : "Business",
+    "Price" : "500",
+    "seatID" : 30
+  }, {
+    "BusID" : 3,
+    "BusStandard" : "Economy",
+    "Price" : "100",
+    "seatID" : 30
+  }, {
+    "BusID" : 4,
+    "BusStandard" : "Luxury",
+    "Price" : "1000",
+    "seatID" : 30
+  }, {
+    "BusID" : 5,
+    "BusStandard" : "Business",
+    "Price" : "500",
+    "seatID" : 30
+  }, {
+    "BusID" : 6,
+    "BusStandard" : "Economy",
+    "Price" : "100",
+    "seatID" : 30
+  }, {
+    "BusID" : 7,
+    "BusStandard" : "Luxury",
+    "Price" : "1000",
+    "seatID" : 30
+  }, {
+    "BusID" : 8,
+    "BusStandard" : "Business",
+    "Price" : "500",
+    "seatID" : 30
+  }, {
+    "BusID" : 9,
+    "BusStandard" : "Economy",
+    "Price" : "100",
+    "seatID" : 30
+  } ],
+  "Cities" : [ "America", "Banu", "Chitral", "DG Khan", "India", "Islamabad", "Karachi", "Lahore", "Multan", "Sahiwal", "Sawat" ],
+  "PersonDetail" : [ {
+    "Name" : "Muhammad Usama",
+    "Password" : "password1",
+    "PhoneNumber" : "03472547540"
+  }, {
+    "Name" : "Muhammad Anees",
+    "Password" : "password2",
+    "PhoneNumber" : "03049758360"
+  }, {
+    "Name" : "Muhammad Waseem",
+    "Password" : "password3",
+    "PhoneNumber" : "03422547740"
+  }, {
+    "Name" : "Muhammad Sarwat",
+    "Password" : "password4",
+    "PhoneNumber" : "09472446240"
+  }, {
+    "Name" : "Muhammad Asim",
+    "Password" : "password5",
+    "PhoneNumber" : "04473547140"
+  }, {
+    "Name" : "Muhammad Ramzan",
+    "Password" : "password6",
+    "PhoneNumber" : "03472544540"
+  }, {
+    "Name" : "Muhammad Sarwat",
+    "Password" : "password7",
+    "PhoneNumber" : "03471537510"
+  } ]
+}

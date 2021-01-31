@@ -1,0 +1,9 @@
+[{"BusID":1, "BusStandard":"Luxury", "Seats":30, "Price":"1000"},
+ {"BusID":2, "BusStandard":"Business", "Seats":30, "Price":"500"},
+ {"BusID":3, "BusStandard":"Economy", "Seats":30, "Price":"100"},
+ {"BusID":4, "BusStandard":"Luxury", "Seats":30, "Price":"1000"},
+ {"BusID":5, "BusStandard":"Business", "Seats":30, "Price":"500"},
+ {"BusID":6, "BusStandard":"Economy", "Seats":30, "Price":"100"},
+ {"BusID":7, "BusStandard":"Luxury", "Seats":30, "Price":"1000"},
+ {"BusID":8, "BusStandard":"Business", "Seats":30, "Price":"500"},
+ {"BusID":9, "BusStandard":"Economy", "Seats":30, "Price":"100"}]

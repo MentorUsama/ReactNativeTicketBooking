@@ -1,0 +1,10 @@
+[
+    {"Name":"Muhammad Usama", "PhoneNumber":"03472547540","Password":"password1"   ,"Booked":[{"Seat":20,"Gender":0,"Date":"25-10-2020","Arrival":"Lahore","BusID":1}] ,"Pending":[{"Seat":5,"Gender":0,"Date":"25-10-2020","Arrival":"Lahore","BusID":1}]},
+    {"Name":"Muhammad Anees", "PhoneNumber":"03049758360","Password":"password2"   ,"Booked":[{"Seat":20,"Gender":0,"Date":"25-10-2020","Arrival":"Multan","BusID":1}] ,"Pending":[{"Seat":5,"Gender":0,"Date":"25-10-2020","Arrival":"Multan","BusID":1}]},
+    {"Name":"Muhammad Waseem", "PhoneNumber":"03422547740","Password":"password3"  ,"Booked":[{"Seat":20,"Gender":0,"Date":"25-10-2020","Arrival":"Lahore","BusID":2}] ,"Pending":[{"Seat":5,"Gender":0,"Date":"25-10-2020","Arrival":"Lahore","BusID":2}]},
+    {"Name":"Muhammad Sarwat", "PhoneNumber":"09472446240","Password":"password4"  ,"Booked":[{"Seat":20,"Gender":0,"Date":"25-10-2020","Arrival":"Multan","BusID":2}] ,"Pending":[{"Seat":5,"Gender":0,"Date":"25-10-2020","Arrival":"Multan","BusID":2}]},
+    {"Name":"Muhammad Asim", "PhoneNumber":"04473547140","Password":"password5"    ,"Booked":[{"Seat":20,"Gender":0,"Date":"25-10-2020","Arrival":"Lahore","BusID":3}] ,"Pending":[{"Seat":5,"Gender":0,"Date":"25-10-2020","Arrival":"Lahore","BusID":3}]},
+    {"Name":"Muhammad Ramzan", "PhoneNumber":"03472544540","Password":"password6"  ,"Booked":[{"Seat":20,"Gender":0,"Date":"25-10-2020","Arrival":"Multan","BusID":3}] ,"Pending":[{"Seat":5,"Gender":0,"Date":"25-10-2020","Arrival":"Multan","BusID":3}]},
+    {"Name":"Muhammad Sarwat", "PhoneNumber":"03471537510","Password":"password7"  ,"Booked":[{"Seat":20,"Gender":0,"Date":"25-10-2020","Arrival":"Lahore","BusID":4}] ,"Pending":[{"Seat":5,"Gender":0,"Date":"25-10-2020","Arrival":"Lahore","BusID":4}]},
+    {"Name":"Muhammad Waseem", "PhoneNumber":"03472999999","Password":"password9"  ,"Booked":[{"Seat":-1,"Gender":-1,"Date":"00-00-0000","Arrival":"No Where","BusID":-1}] ,"Pending":[{"Seat":-1,"Gender":-1,"Date":"00-00-0000","Arrival":"No Where","BusID":-1}]}
+]

@@ -10,7 +10,7 @@ This is the app for booking tickets. Created with react native and firebase as d
 4. Run the project and enjoy.
 
 # ScreenShot
-![Login]("https://github.com/MentorUsama/Bus-Ticket-Booking/blob/master/ScreenShot/login.PNG")
+![Login](https://github.com/MentorUsama/Bus-Ticket-Booking/blob/master/ScreenShot/login.PNG)
 ![Home]("https://github.com/MentorUsama/Bus-Ticket-Booking/blob/master/ScreenShot/home.PNG")
 ![Select Bus]("https://github.com/MentorUsama/Bus-Ticket-Booking/blob/master/ScreenShot/select%20bus.PNG")
 ![Select Seat]("https://github.com/MentorUsama/Bus-Ticket-Booking/blob/master/ScreenShot/book%20seat.PNG")

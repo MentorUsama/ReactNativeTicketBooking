@@ -1,6 +1,9 @@
 # Bus-Ticket-Booking
 This is the app for booking tickets. Created with react native and firebase as database.
 
+# Issues
+1. need to work on Backend it is several security issues.
+
 # Installation Guide
 1. Run command "npm install" in the main directory of your project
 2. Create your firebae project.
